@@ -14,7 +14,7 @@
 
 - 📝 When I’m not coding, I talk about movies & comics on YouTube on [https://www.youtube.com/@EnterInEntire](https://www.youtube.com/@EnterInEntire)
 
-- 💬 Ask me about **Basic Python, logic building, and how I broke the same code 3 times 😅**
+- 💬 Ask me about **Basic Python, logic building, and how I broke the same code multiple times 😅**
 
 - 📫 How to reach me **Nikhilkumar.156156@gmail.com**
 
