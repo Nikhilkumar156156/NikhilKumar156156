@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Kumar</h1>
 <h3 align="center">Code. Learn. Repeat. — AI/ML & Python</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilkumar156156&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilkumar156156" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilkumar156156" alt="nikhilkumar156156" /></a> </p>
 
 - 🔭 I’m currently working on [Mini Python Projects – sharpening my skills with hands-on practice](https://github.com/Nikhilkumar156156?tab=projects)
@@ -15,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nikhilkumar156156](https://github.com/Nikhilkumar156156)
 
-- 📝 When I’m not coding, I talk about movies & comics on YouTube:les on [https://www.youtube.com/@EnterInEntire](https://www.youtube.com/@EnterInEntire)
+- 📝 When I’m not coding, I talk about movies & comics on YouTube on [https://www.youtube.com/@EnterInEntire](https://www.youtube.com/@EnterInEntire)
 
 - 💬 Ask me about **Basic Python, logic building, and how I broke the same code 3 times 😅**
 
