@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Nikhil Kumar</h1>
 <h3 align="center">🚀 AI/ML Enthusiast | Python Developer | Data Science Learner</h3>
 
@@ -123,5 +122,3 @@
 ## ✨ Motto
 
 > “Code. Learn. Build. Repeat.”
-
-```
