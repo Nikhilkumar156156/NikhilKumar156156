@@ -8,11 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Explorer;Python+Developer;AI+%26+Data+Science+Learner;Building+Projects+Every+Day;Future+AI+Engineer" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Nikhilkumar156156&theme=tokyonight&no-frame=true&row=1&column=6" />
-  </a>
-</p>
 
 ---
 
