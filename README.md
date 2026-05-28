@@ -81,10 +81,13 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikhilkumar156156&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilkumar156156&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikhilkumar156156&theme=tokyonight">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikhilkumar156156&theme=tokyonight">
+
 </p>
+
 
 ---
 
